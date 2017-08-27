@@ -1,0 +1,16 @@
+.\output\system_init.o: User\System_Init.c
+.\output\system_init.o: User\System_Init.h
+.\output\system_init.o: .\CMSIS\stm32f10x.h
+.\output\system_init.o: .\CMSIS\core_cm3.h
+.\output\system_init.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\system_init.o: .\CMSIS\system_stm32f10x.h
+.\output\system_init.o: .\User\stm32f10x_conf.h
+.\output\system_init.o: .\FWlib\inc\stm32f10x_adc.h
+.\output\system_init.o: .\CMSIS\stm32f10x.h
+.\output\system_init.o: .\FWlib\inc\stm32f10x_dma.h
+.\output\system_init.o: .\FWlib\inc\stm32f10x_gpio.h
+.\output\system_init.o: .\FWlib\inc\stm32f10x_rcc.h
+.\output\system_init.o: .\FWlib\inc\stm32f10x_tim.h
+.\output\system_init.o: .\FWlib\inc\stm32f10x_usart.h
+.\output\system_init.o: .\FWlib\inc\misc.h
+.\output\system_init.o: User\IG_YZ.h
